@@ -1,4 +1,4 @@
-#include "llvm/Transforms/Instrumentation/XSan.h"
+#include "llvm/Transforms/Instrumentation/XSanitizer.h"
 
 #include "llvm/IR/Function.h"
 #include "llvm/Pass.h"
